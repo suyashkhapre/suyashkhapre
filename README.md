@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @suyashkhapre
+- 👋 Hi, I’m Suyash khapre
 - 👀 I’m interested in Web development
 - 🌱 I’m currently learning html,css,javascript
 - 💞️ I’m looking to collaborate on ...
