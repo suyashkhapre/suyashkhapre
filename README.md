@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Suyash khapre
 - 👀 I’m interested in Web development
-- 🌱 I’m currently learning html,css,javascript
+- 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me @khapresuyash23@gmail.com
 
